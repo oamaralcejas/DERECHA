@@ -1,0 +1,10 @@
+
+DERECHA is © 2022 University of Luxembourg and is distributed under the GPL v2 license (read GPLv2.0.txt for details)
+
+Orlando Amaral Cejas (orlando.amaralcejas@uni.lu)
+
+Paper:
+  - "NLP-Based Automated Compliance Checking of Data Processing Agreements Against GDPR", Transactions on Software Engineering Journal, 2023
+
+More details and resources are available at:
+https://figshare.com/articles/online_resource/DERECHA/23676216
